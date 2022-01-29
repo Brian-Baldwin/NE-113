@@ -1,3 +1,4 @@
+%A MATLAB script that algorithmically converts a matrix into row-echelon form without pivoting, then solves the systems of equations
 function f = naive_gauss(A,b)
 
     %Check for square matrix
